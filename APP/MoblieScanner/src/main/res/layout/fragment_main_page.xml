@@ -1,0 +1,73 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mobliescanner.MainPage"
+    android:background="#ffffff">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left|top">
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Add Photo"
+            android:id="@+id/btnAddPhoto"
+            android:layout_weight="1"/>
+
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Camera"
+            android:id="@+id/btnCamera"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+    <ListView
+        android:layout_width="fill_parent"
+        android:layout_height="420dp"
+        android:id="@+id/lstPhotoList"
+        android:layout_gravity="left|center_vertical" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left|bottom">
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Start"
+            android:id="@+id/btnStart"
+            android:layout_weight="1"/>
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Clear"
+            android:id="@+id/btnClear"
+            android:layout_weight="1"/>
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Remove"
+            android:id="@+id/btnRemove"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+
+</FrameLayout>

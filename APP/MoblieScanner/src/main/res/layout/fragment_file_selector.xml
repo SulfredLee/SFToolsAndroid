@@ -1,0 +1,42 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mobliescanner.FileSelector"
+    android:background="#ffffff">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <ListView
+        android:layout_width="fill_parent"
+        android:layout_height="420dp"
+        android:id="@+id/listView"
+        android:layout_gravity="left|top" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left|bottom">
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="OK"
+            android:id="@+id/btnOK"
+            android:layout_weight="1"/>
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Cancel"
+            android:id="@+id/btnCancel"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+
+
+</FrameLayout>

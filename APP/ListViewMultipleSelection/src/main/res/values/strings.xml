@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ListViewMultipleSelection</string>
+    <string name="title_activity_list_view_multiple_selection">ListViewMultipleSelectionActivity
+    </string>
+
+    <string name="hello">Hello World, ListViewMultipleSelectionActivity!</string>
+    <string name="result_activity">ResultActivity</string>
+    <string name="submit">Submit</string>
+
+    <string-array name="sports_array">
+        <item>Shuttle Badminton</item>
+        <item>Tennis</item>
+        <item>Table Tennis</item>
+        <item>Basket Ball</item>
+        <item>Foot Ball</item>
+        <item>Volley Ball</item>
+        <item>Hockey</item>
+        <item>Swimming</item>
+    </string-array>
+</resources>
