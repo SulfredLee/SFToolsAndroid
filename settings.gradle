@@ -1,0 +1,6 @@
+include ':APP:FragmentTesting'
+include ':APP:MoblieScanner'
+include ':APP:ListViewMultipleSelection'
+include ':APP:ListViewCustomAdapMultiSelection'
+include ':APP:ListViewCustomAdapMultiSelection2'
+include ':LIB:openCVLibrary310'

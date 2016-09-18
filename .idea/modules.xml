@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/APP/APP.iml" filepath="$PROJECT_DIR$/APP/APP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APP/FragmentTesting/FragmentTesting.iml" filepath="$PROJECT_DIR$/APP/FragmentTesting/FragmentTesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LIB/LIB.iml" filepath="$PROJECT_DIR$/LIB/LIB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APP/ListViewCustomAdapMultiSelection/ListViewCustomAdapMultiSelection.iml" filepath="$PROJECT_DIR$/APP/ListViewCustomAdapMultiSelection/ListViewCustomAdapMultiSelection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListViewCustomAdapMultiSelection/ListViewCustomAdapMultiSelection.iml" filepath="$PROJECT_DIR$/ListViewCustomAdapMultiSelection/ListViewCustomAdapMultiSelection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APP/ListViewCustomAdapMultiSelection2/ListViewCustomAdapMultiSelection2.iml" filepath="$PROJECT_DIR$/APP/ListViewCustomAdapMultiSelection2/ListViewCustomAdapMultiSelection2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APP/ListViewMultipleSelection/ListViewMultipleSelection.iml" filepath="$PROJECT_DIR$/APP/ListViewMultipleSelection/ListViewMultipleSelection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APP/MoblieScanner/MoblieScanner.iml" filepath="$PROJECT_DIR$/APP/MoblieScanner/MoblieScanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SFToolsAndroid.iml" filepath="$PROJECT_DIR$/SFToolsAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LIB/openCVLibrary310/openCVLibrary310.iml" filepath="$PROJECT_DIR$/LIB/openCVLibrary310/openCVLibrary310.iml" />
+    </modules>
+  </component>
+</project>
